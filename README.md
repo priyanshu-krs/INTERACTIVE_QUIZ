@@ -30,7 +30,7 @@ The quiz displays multiple-choice questions, accepts user responses, calculates 
 ## ⚙️ How to Run the Project  
 
 ### 1. Download or clone the project  
-git clone https://github.com/priyanshu-krs/YOUR-REPOSITORY-NAME.git  
+git clone https://priyanshu-krs.github.io/INTERACTIVE_QUIZ/
 
 ### 2. Open the project folder  
 cd interactive_quiz  
